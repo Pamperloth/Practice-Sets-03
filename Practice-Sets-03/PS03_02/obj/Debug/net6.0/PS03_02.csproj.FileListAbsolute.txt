@@ -1,0 +1,15 @@
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\bin\Debug\net6.0\PS03_02.exe
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\bin\Debug\net6.0\PS03_02.deps.json
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\bin\Debug\net6.0\PS03_02.runtimeconfig.json
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\bin\Debug\net6.0\PS03_02.dll
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\bin\Debug\net6.0\PS03_02.pdb
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\obj\Debug\net6.0\PS03_02.csproj.AssemblyReference.cache
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\obj\Debug\net6.0\PS03_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\obj\Debug\net6.0\PS03_02.AssemblyInfoInputs.cache
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\obj\Debug\net6.0\PS03_02.AssemblyInfo.cs
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\obj\Debug\net6.0\PS03_02.csproj.CoreCompileInputs.cache
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\obj\Debug\net6.0\PS03_02.dll
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\obj\Debug\net6.0\refint\PS03_02.dll
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\obj\Debug\net6.0\PS03_02.pdb
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\obj\Debug\net6.0\PS03_02.genruntimeconfig.cache
+C:\Users\April\Desktop\Practice-Sets-03\Practice-Sets-03\PS03_02\obj\Debug\net6.0\ref\PS03_02.dll
